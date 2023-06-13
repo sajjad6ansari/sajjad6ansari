@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SAJJAD ANSARI (@Sajjad1450)
+- 👋 Hi, I’m SAJJAD ANSARI (@sajjad6ansari)
 - 👀 I’m interested in C++ ,C, DSA, CP, Web Development
 - 🌱 I’m currently learning C++
 - 📫 How to reach me www.linkedin.com/in/sajjad6ansari
