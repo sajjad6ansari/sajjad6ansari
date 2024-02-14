@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SAJJAD ANSARI (@sajjad6ansari)
 - 👀 I’m interested in C++ ,C, DSA, CP, Web Development
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning web development and doing dsa problems 
 - 📫 How to reach me www.linkedin.com/in/sajjad6ansari
 
 
