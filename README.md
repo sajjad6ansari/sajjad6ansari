@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🎓 **Education:** Computer Science and Engineering Graduate from  UIT,BU.
+- 🎓 **Education:** Computer Science and Engineering pre-final Student from  UIT,BU.
 - 💻 **Interests:** Problem solving and Backend Dev in NodeJs.
 - 🌱 **Currently Learning:** Web development  and solving DSA problems. 
     * Focusing on backend development with projects like Zerodha, GitHub, Zoom, and LinkedIn clones.
