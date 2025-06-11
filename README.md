@@ -11,7 +11,7 @@ const bio = {
     "- 👯 I’m looking to collaborate on": "NodeJs, ReactJs and Docker-related projects",
     "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
     "- 💬 Ask me about": "DataStructure, React, NodeJs, SQL, Software Design & Architecture, Web-Dev, SEO and Auths ",
-    "- 📫 How to reach me:": "[https://mavcodes.netlify.app](https://sajjadbio.netlify.app/)"
+    "- 📫 How to reach me:": "https://sajjadbio.netlify.app/"
 };
 
 function getBio() {
