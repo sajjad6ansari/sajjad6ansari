@@ -1,56 +1,71 @@
-# Hi there, I'm Sajjad Ansari 👋
+<hr>
+<h1 align="center">Hi 👋, I am SAJJAD ANSARI </h1>
 
-## 👨‍💻 About Me
+***About me ....***
+```
+const bio = {
+    "- ⚡ Quick bio:": "A kind of metalHead-badmintonBuff-history&politicsNerd-IslamicHeritageEnthusiast-foodLover-geekCodeWarrior and engineer",
+    "- 🔭 I’m I’m previosly worked at": "Unque as Software Engineer Intern for 4 months",
+    "- 🔭 I’m currently looking for internships and full time roles in software engineering(baackend dev in nodejs preferred) ",
+    "- 🌱 I’m currently learning and implementing projects": "NodeJS, MongoDB, Express, React, React Native (Tech stack for my projects and for Unque) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
+    "- 👯 I’m looking to collaborate on": "NodeJs, ReactJs and Docker-related projects",
+    "- 🤔 I’m looking for help with": "Anything related to what I am currently learning 😅",
+    "- 💬 Ask me about": "DataStructure, React, NodeJs, SQL, Software Design & Architecture, Web-Dev, SEO and Auths ",
+    "- 📫 How to reach me:": "[https://mavcodes.netlify.app](https://sajjadbio.netlify.app/)"
+};
 
-I'm a pre-final year Computer Science and Engineering student at the University Institute of Technology, Burdwan University. I’m passionate about solving real-world problems using code and enjoy building scalable backend systems. Currently, I'm focused on backend development using Node.js and continuously improving my skills through hands-on projects.
+function getBio() {
+    return bio;
+}
 
-- 🎯 **Interests:** Backend Development, Data Structures & Algorithms
-- 🌱 **Currently Learning:**
-  - Building backend-heavy clones of platforms like Zerodha, GitHub, Zoom, and LinkedIn
-  - Planning to explore high-level system design through projects like Kafka and YouTube clones
-- 🔍 **Actively Seeking:** Internship/Full-Time opportunities in **Software Development**
-- 📫 **Reach Me At:** [LinkedIn](https://www.linkedin.com/in/sajjad6ansari) | [GitHub](https://github.com/sajjad6ansari)
+(function displayBio() {
+    const bioEntries = getBio();
+    for (const [key, value] of Object.entries(bioEntries)) {
+        console.log(`${key}: ${value}`);
+    }
+})();
+```
+<h2 align="center">You can reach me at :alien:</h2>
 
----
+<p align="center">
+  <a href="https://dev.to/sajjad_ansari_ahlan">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sajjad Ansari's DEV Profile" height="30" width="30">
+  </a>
 
-## 🛠️ Skills
+  <a href="https://www.linkedin.com/in/sajjad-ansari-solo/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Sajjad Ansari's LinkedIn Profile" height="30" width="30">
+  </a>
 
-- **Languages:** C++, C, JavaScript, HTML, CSS
-- **Backend:** Node.js, Express.js, MongoDB (with Mongoose)
-- **Databases:** PostgreSQL, SQL, SQLPlus
-- **Tools & Platforms:** Git, GitHub, VS Code, StarUML, MagicDraw
-- **Core Areas:** RESTful APIs, Object-Oriented Programming, GUI Development, Multithreading, UML Design
+  <a href="https://stackoverflow.com/users/22276282/sajjad-ansari">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Sajjad Ansari's Stack Overflow Profile" height="30" width="30">
+  </a>
+  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="Sajjad Ansari's Leetcode Profile" height="30" width="30">
+  </a>
+</p>
+<h2 align="center">My stack :man_technologist:</h2>
 
----
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) within the past</p>
+<p align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= #> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
+<a href= # > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href=#> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
+<a href= # > <img width ='32px' src ='https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg'> </a>
+<a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/512px-MongoDB_Logo.svg.png'> </a>
+<a href= # > <img width ='45px' src ='https://miro.medium.com/max/1032/1*sPLooWMag11pjZnzYXIQCA.png'> </a>
+<a href= # > <img width ='32px' src ='https://opensenselabs.com/sites/default/files/inline-images/cypress%20-%20opensense%20labs.png'> </a>	
+<a href= # > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png'> </a>
 
-## 📂 Projects
 
-### 🔧 Backend Projects
-- [**Store API**](https://github.com/sajjad6ansari/Store-API): RESTful API for store management with full CRUD operations.
-- [**Task Manager API**](https://github.com/sajjad6ansari/Task-Manager-API): API to manage tasks with features like filtering and error handling.
-- [**Simple CRUD App Backend**](https://github.com/sajjad6ansari/simple-crud-app-backend): Lightweight backend for a CRUD app.
+<h2 align="center">Github stats :bar_chart:</h2>
 
-### 🗃️ Database Projects
-- [**Student Database-1**](https://github.com/sajjad6ansari/Student-Database-1): A system to manage student data using SQL.
-- [**Celestial Bodies Database (PostgreSQL)**](https://github.com/sajjad6ansari/Celestial-Bodies-Database-PostgreSQL): Designed schema and queries for astronomical data.
-- [**DBMS Lab**](https://github.com/sajjad6ansari/DBMS-Lab): Collection of practical DBMS assignments.
-- [**OOP Lab Assignment**](https://github.com/sajjad6ansari/OOP-Lab-Assignment): Object-Oriented Programming assignments in Java and C++.
+<h4 align="center">Visitor's count :eyes:</h4>
 
----
+<p align="center"><img src="https://profile-counter.glitch.me/{sajjad6ansari}/count.svg" alt="Sajjad :: Visitor's Count" /></p>
 
-## 📊 GitHub Stats
-
-![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajjad6ansari&show_icons=true&theme=radical)
-
----
-
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sajjad6ansari)
-- 💻 [GitHub](https://github.com/sajjad6ansari)
-
-Feel free to connect, collaborate, or just say hi. I’m always open to discussing new ideas and projects!
-
----
-
-> *“Life is full of choices… choose wisely!”*
+More info at: https://sajjadbio.netlify.app
