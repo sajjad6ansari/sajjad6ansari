@@ -351,15 +351,6 @@ console.log("🚀 Building the future, one commit at a time!");
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30"> **Contribution Activity**
-
-<div align="center">
-
-[![Sajjad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sajjad6ansari&bg_color=0d1117&color=c9d1d9&line=FF6B6B&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 <div align="center">
 
@@ -371,16 +362,7 @@ console.log("🚀 Building the future, one commit at a time!");
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 👀 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sajjad6ansari&label=Profile%20views&color=0e75b6&style=for-the-badge)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=sajjad6ansari.sajjad6ansari)
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
