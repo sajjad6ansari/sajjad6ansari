@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">
-  <a href="https://sajjadbio.netlify.app/" target="_blank">
+  <a href="https://sajjadansari.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/sajjad-ansari-solo/" target="_blank">
@@ -51,7 +51,7 @@ const sajjadAnsari = {
     "👯 Looking to collaborate on": "Node.js, React.js, and Docker-related projects",
     "🤔 Need help with": "Anything related to what I'm currently learning 😅",
     "💬 Ask me about": "Data Structures, React, Node.js, SQL, Software Design & Architecture, Web Dev, SEO, Authentication",
-    "📫 Reach me at": "https://sajjadbio.netlify.app/",
+    "📫 Reach me at": "https://sajjadansari.netlify.app/",
     "🎵 Fun fact": "I find peace and focus through Salah (Islamic prayer) 🕌"
 };
 
@@ -409,7 +409,7 @@ console.log("🚀 Building the future, one commit at a time!");
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjad6ansari)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sajjad6ansari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sajjadbio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://sajjadansari.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajjadansari313@gmail.com)
 
 </div>
