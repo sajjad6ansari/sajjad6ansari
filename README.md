@@ -117,6 +117,116 @@ const organizationalImpact = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Featured Projects**
+
+<div align="center">
+
+### 🚀 **Flagship Projects**
+
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+[![College Appointment System](https://github-readme-stats.vercel.app/api/pin/?username=sajjad6ansari&repo=College-Appointment-System-API&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9&icon_color=FF6B6B)](https://github.com/sajjad6ansari/College-Appointment-System-API)
+
+### 🎓 **College Appointment System**
+
+<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+**🌟 Key Features:**
+🔐 **JWT Authentication** with role-based access control
+📅 **Smart Scheduling** system with conflict detection
+📱 **Responsive Design** works on all devices
+🐳 **Docker Ready** for seamless deployment
+📊 **Comprehensive API** documentation with Swagger
+☁️ **Cloud Deployed** on Vercel + Render + MongoDB Atlas
+
+**🚀 Live Links:**
+[🌐 **Live Demo**](https://college-appointment-system-api.vercel.app/)
+[📂 **Source Code**](https://github.com/sajjad6ansari/College-Appointment-System-API)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+[![Blog App Microservices](https://github-readme-stats.vercel.app/api/pin/?username=sajjad6ansari&repo=Blog-App-Microservices-frontend&theme=radical&border_color=4ECDC4&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9&icon_color=4ECDC4)](https://github.com/sajjad6ansari/Blog-App-Microservices-frontend)
+
+### 📝 **The Reading Retreat - Microservices Platform**
+
+<img src="https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
+**🌟 Architecture Highlights:**
+🏗️ **Event-Driven Microservices** with async communication
+🔄 **Real-time Updates** via WebSocket integration
+🛡️ **Service Isolation** with independent deployments
+📡 **Event Bus** for inter-service communication
+🗄️ **Polyglot Persistence** (PostgreSQL + MongoDB)
+🎨 **Modern UI** with shadcn/ui + Tailwind CSS
+
+**🚀 Live Links:**
+[🌐 **Live Demo**](https://blog-app-microservices-frontend.vercel.app/)
+[📂 **Source Code**](https://github.com/sajjad6ansari/Blog-App-Microservices-frontend)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 **Technical Excellence**
+
+```javascript
+const projectShowcase = {
+    "🎓 College Appointment System": {
+        type: "Monolithic Full-Stack Application",
+        architecture: "MERN Stack + Docker Containerization",
+        cloudDeployment: "Vercel (Frontend) + Render (Backend) + MongoDB Atlas",
+        keyFeatures: [
+            "JWT Authentication & Authorization",
+            "Role-based Access Control (Students/Professors)", 
+            "Smart Conflict Detection Algorithm",
+            "RESTful API with Swagger Documentation",
+            "Responsive Mobile-First Design"
+        ],
+        techHighlights: "React 19 + Node.js 18 + MongoDB + Docker + Cloud Deployment"
+    },
+    
+    "📝 The Reading Retreat Platform": {
+        type: "Distributed Microservices Architecture", 
+        architecture: "Event-Driven + Next.js 15 Frontend",
+        deployment: "Docker + Event Bus Communication",
+        keyFeatures: [
+            "Event-Driven Inter-Service Communication",
+            "Real-time Comment System with WebSockets",
+            "Advanced Content Moderation Pipeline",
+            "Polyglot Persistence Strategy",
+            "Service Discovery & Load Balancing"
+        ],
+        techHighlights: "Next.js 15 + TypeScript + Docker + Event Bus"
+    }
+};
+
+console.log("🚀 Building the future, one commit at a time!");
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> **Achievements & Highlights**
 
 <div align="center">
@@ -218,115 +328,7 @@ const organizationalImpact = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Featured Projects**
-
-<div align="center">
-
-### 🚀 **Flagship Projects**
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-[![College Appointment System](https://github-readme-stats.vercel.app/api/pin/?username=sajjad6ansari&repo=College-Appointment-System-API&theme=radical&border_color=FF6B6B&bg_color=0d1117&title_color=FF6B6B&text_color=c9d1d9&icon_color=FF6B6B)](https://github.com/sajjad6ansari/College-Appointment-System-API)
-
-### 🎓 **College Appointment System**
-
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-**🌟 Key Features:**
-🔐 **JWT Authentication** with role-based access control
-📅 **Smart Scheduling** system with conflict detection
-📱 **Responsive Design** works on all devices
-🐳 **Docker Ready** for seamless deployment
-📊 **Comprehensive API** documentation with Swagger
-☁️ **Cloud Deployed** on Vercel + Render + MongoDB Atlas
-
-**🚀 Live Links:**
-[🌐 **Live Demo**](https://college-appointment-system-api.vercel.app/)
-[ **Source Code**](https://github.com/sajjad6ansari/College-Appointment-System-API)
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-[![Blog App Microservices](https://github-readme-stats.vercel.app/api/pin/?username=sajjad6ansari&repo=Blog-App-Microservices-frontend&theme=radical&border_color=4ECDC4&bg_color=0d1117&title_color=4ECDC4&text_color=c9d1d9&icon_color=4ECDC4)](https://github.com/sajjad6ansari/Blog-App-Microservices-frontend)
-
-### 📝 **The Reading Retreat - Microservices Platform**
-
-<img src="https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-5-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-
-**🌟 Architecture Highlights:**
-🏗️ **Event-Driven Microservices** with async communication
-🔄 **Real-time Updates** via WebSocket integration
-🛡️ **Service Isolation** with independent deployments
-📡 **Event Bus** for inter-service communication
-🗄️ **Polyglot Persistence** (PostgreSQL + MongoDB)
-🎨 **Modern UI** with shadcn/ui + Tailwind CSS
-
-**🚀 Live Links:**
-[🌐 **Live Demo**](https://blog-app-microservices-frontend.vercel.app/)
-[📂 **Source Code**](https://github.com/sajjad6ansari/Blog-App-Microservices-frontend)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💡 **Technical Excellence**
-
-```javascript
-const projectShowcase = {
-    "🎓 College Appointment System": {
-        type: "Monolithic Full-Stack Application",
-        architecture: "MERN Stack + Docker Containerization",
-        cloudDeployment: "Vercel (Frontend) + Render (Backend) + MongoDB Atlas",
-        keyFeatures: [
-            "JWT Authentication & Authorization",
-            "Role-based Access Control (Students/Professors)", 
-            "Smart Conflict Detection Algorithm",
-            "RESTful API with Swagger Documentation",
-            "Responsive Mobile-First Design"
-        ],
-        techHighlights: "React 19 + Node.js 18 + MongoDB + Docker + Cloud Deployment"
-    },
-    
-    "📝 The Reading Retreat Platform": {
-        type: "Distributed Microservices Architecture", 
-        architecture: "Event-Driven + Next.js 15 Frontend",
-        deployment: "Docker + Kubernetes + Event Bus Communication",
-        keyFeatures: [
-            "Event-Driven Inter-Service Communication",
-            "Real-time Comment System with WebSockets",
-            "Advanced Content Moderation Pipeline",
-            "Polyglot Persistence Strategy",
-            "Service Discovery & Load Balancing"
-        ],
-        techHighlights: "Next.js 15 + TypeScript + Docker + Kubernetes + Event Bus"
-    }
-};
-
-console.log("🚀 Building the future, one commit at a time!");
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
