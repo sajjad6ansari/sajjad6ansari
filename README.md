@@ -400,7 +400,6 @@ console.log("🚀 Building the future, one commit at a time!");
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> **Quotes to Live By**
 
-> ### *"The best way to predict the future is to create it."* - Peter Drucker
 
 > ### *"الصلاة معراج المؤمن - Salah is the Mi'raj (ascension) of the believer"* 
 > *- Based on the teaching: "Prayer is the believer's ascension" (Al-Miraj al-Mu'min)*
