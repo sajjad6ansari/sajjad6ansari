@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🚀%20Salam%20Habibi,%20Its%20Sajjad%20Here%20🚀&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=white" />
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=🚀%20Salam,%20its%20Sajjad%20here%20🚀&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=white" />
 
 <div align="center">
   <h2 style="color: #FF6B6B; font-size: 24px;">🌟 أهلاً وسهلاً ( Ahlan Wa Sahlan ) • स्वागतम् 🌟</h2>
